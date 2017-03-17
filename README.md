@@ -1,2 +1,3 @@
-# nodeCassandraStarter
-Node.js microservice starter kit with Cassandra database
+# Anniversary image service
+
+## process image job like resize and delete
