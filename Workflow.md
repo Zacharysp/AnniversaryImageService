@@ -9,7 +9,7 @@
     {
 
         action: resize, //(resize, delete)
-        imageName: 13413****,
+        fileName: 13413****.jpg,
     }
 
 4. Resize
@@ -21,6 +21,5 @@
 
 6. if resize and delete fail
 
-* retry 3 times
 * send alert email
 * add to fail log

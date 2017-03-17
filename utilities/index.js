@@ -5,6 +5,8 @@
 "use strict";
 
 exports.errors = require('./error');
+exports.util = require('./util');
+exports.client = require('./dbClient');
 
 
 
